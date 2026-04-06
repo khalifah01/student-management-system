@@ -27,8 +27,8 @@ Data processed using loops and built-in functions
 
 ## 📷 Screenshots
 
-![Menu](screenshots/Screenshot (3).png)
-![Output](screenshots/Screenshot (6).png)
+![Menu](screenshots/menu.png)
+![Output](screenshots/output.png)
 
 ---
 
