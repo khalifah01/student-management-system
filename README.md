@@ -1,46 +1,54 @@
-# Student Management System
+# 🎓 Student Record CLI Manager
 
 ## 📌 Problem
-Managing student records manually can be difficult. This system helps store and analyze student data easily.
+Managing student records manually can be inefficient and error-prone. There is a need for a simple system to store, retrieve, and analyze student data effectively.
+
+---
 
 ## 🚀 Features
-- Add student
-- View students
-- Search student
-- Delete student
-- Analyze data (average & top student)
+
+- Add student records
+- View all students
+- Search for a student
+- Delete student records
+- Analyze performance (average score & top student)
+
+---
 
 ## 🛠️ How to Run
+
+1. Open terminal in the project folder  
+2. Run:
+
 ```bash
 python main.py
 
 📊 Data Handling
-
-Data is stored in a JSON file (students.json). The program loads and updates this file dynamically.
-
+Data is stored in a JSON file: students.json
+Each student record contains:
+Name
+Score
+Data is loaded and saved dynamically using Python file handling
 🧠 Core Logic
-Students stored as list of dictionaries,
-Functions handle each operation,
-Data processed using loops and built-in functions
+Students are stored as a list of dictionaries
+Functions handle each operation (add, view, delete, search, analyze)
+Uses loops and built-in functions like:
+sum()
+max()
 
-📷 Outputs
+📷 Screenshots
 
-## 📷 Screenshots
+Menu Interface
 
-![Menu](screenshots/menu.png)
-![Output](screenshots/output.png)
+Output Result
 
----
+📑 Presentation
 
-## 📑 Presentation
+./presentation.pdf
 
-[Download Presentation](presentation.pdf)
+📊 Sample Data
 
----
-
-## 📊 Data File
-
-[View Sample Data](students.json)
+./students.json
 
 👨‍💻 Author
 
