@@ -38,9 +38,9 @@ max()
 
 📷 Screenshots
 
-Menu Interface
+![Menu](https://raw.githubusercontent.com/khalifah01/student-management-system/main/screenshots/menu.png)
 
-Output Result
+![Output](https://raw.githubusercontent.com/khalifah01/student-management-system/main/screenshots/output.png)
 
 📑 Presentation
 
